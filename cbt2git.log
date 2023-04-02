@@ -1,0 +1,18 @@
+2023-04-03 00:14:38.002801 - Initialized conversion of CBT431
+2023-04-03 00:14:38.905784 - Received CBT.V504.FILE431.PDS from FILE431.XMI 
+2023-04-03 00:14:38.908389 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:14:38.909679 - Found $README.txt (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/$README
+2023-04-03 00:14:38.910800 - Found @FILE431.txt (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/@FILE431
+2023-04-03 00:14:38.911999 - Found BRACKETS.jcl (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/BRACKETS
+2023-04-03 00:14:38.912011 - Found BRACKET4.bin containing application/octet-stream, moved to PDS/BRACKET4
+2023-04-03 00:14:38.914421 - Found GOPHER.jcl (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/GOPHER
+2023-04-03 00:14:38.915830 - Found IPCSDIST.jcl (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/IPCSDIST
+2023-04-03 00:14:38.917405 - Found NNMVS.jcl (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/NNMVS
+2023-04-03 00:14:38.918516 - Found TSOREXX.jcl (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/TSOREXX
+2023-04-03 00:14:38.919768 - Found XDIS.jcl (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/XDIS
+2023-04-03 00:14:38.920814 - Found XDIS$$.txt (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/XDIS$$
+2023-04-03 00:14:38.921885 - Found XDISNOTE.txt (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/XDISNOTE
+2023-04-03 00:14:38.922935 - Found XPROCA.txt (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/XPROCA
+2023-04-03 00:14:38.923956 - Found XRXVARS.txt (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/XRXVARS
+2023-04-03 00:14:38.925029 - Found XRXVARS#.txt (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/XRXVARS#
+2023-04-03 00:14:38.926108 - Found XR991214.txt (text/plain) in CBT.V504.FILE431.PDS, moved to PDS/XR991214
